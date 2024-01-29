@@ -1,5 +1,5 @@
 ## xpuls.ai is now moved to [github.com/vishwa-labs](https://github.com/vishwa-labs)
-
+### This is in alignment with our rebranding exercise from xpuls.ai to vishwa.ai
 <!--
 
 **Here are some ideas to get you started:**
