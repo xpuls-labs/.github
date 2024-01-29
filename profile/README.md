@@ -1,4 +1,4 @@
-## xpuls.ai is now moved to (github.com/vishwa-labs)[https://github.com/vishwa-labs]
+## xpuls.ai is now moved to [github.com/vishwa-labs](https://github.com/vishwa-labs)
 
 <!--
 
